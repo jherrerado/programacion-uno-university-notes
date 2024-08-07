@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nomina-fija", "nomina-fija\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nomina-mediante-horas-trabajadas", "nomina-mediante-horas-trabajadas\nomina-mediante-horas-trabajadas.vcxproj", "{C8EF28F2-C67E-4C14-9C2C-2B4076D1DF61}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pagar-producto-o-servicio", "pagar-producto-o-servicio\pagar-producto-o-servicio.vcxproj", "{0CF457D3-7F70-44FC-964C-FA0A91144FC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{C8EF28F2-C67E-4C14-9C2C-2B4076D1DF61}.Release|x64.Build.0 = Release|x64
 		{C8EF28F2-C67E-4C14-9C2C-2B4076D1DF61}.Release|x86.ActiveCfg = Release|Win32
 		{C8EF28F2-C67E-4C14-9C2C-2B4076D1DF61}.Release|x86.Build.0 = Release|Win32
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Debug|x64.ActiveCfg = Debug|x64
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Debug|x64.Build.0 = Debug|x64
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Debug|x86.Build.0 = Debug|Win32
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Release|x64.ActiveCfg = Release|x64
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Release|x64.Build.0 = Release|x64
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Release|x86.ActiveCfg = Release|Win32
+		{0CF457D3-7F70-44FC-964C-FA0A91144FC9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
