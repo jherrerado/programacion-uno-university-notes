@@ -30,7 +30,7 @@ int main()
 	}
 	std::cout << "													\n";
 	std::cout << "****************************************************\n";
-	std::cout << "*******     Digite los gastos pevistos *************\n";
+	std::cout << "*******     Digite los gastos previstos *************\n";
 	std::cout << "****************************************************\n";
 
 
