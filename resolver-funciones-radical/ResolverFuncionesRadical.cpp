@@ -7,4 +7,5 @@ int main(){
 	std::cin >> x;
 	resultado = sqrt(abs(pow(x, 3) - 4));
 	std::cout << "El resultado de f(x) es: " << resultado << "\n";
+	return 0;
 }
