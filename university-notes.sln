@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prueva-de-corredores", "Pru
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "control-torre", "controlTorre\controlTorre.vcxproj", "{12CEAA9A-90E6-468A-91FB-867A45BAC30D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "genograma", "genograma\genograma.vcxproj", "{018C69FB-1409-4725-A7EC-99A188618DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{12CEAA9A-90E6-468A-91FB-867A45BAC30D}.Release|x64.Build.0 = Release|x64
 		{12CEAA9A-90E6-468A-91FB-867A45BAC30D}.Release|x86.ActiveCfg = Release|Win32
 		{12CEAA9A-90E6-468A-91FB-867A45BAC30D}.Release|x86.Build.0 = Release|Win32
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Debug|x64.ActiveCfg = Debug|x64
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Debug|x64.Build.0 = Debug|x64
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Debug|x86.Build.0 = Debug|Win32
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Release|x64.ActiveCfg = Release|x64
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Release|x64.Build.0 = Release|x64
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Release|x86.ActiveCfg = Release|Win32
+		{018C69FB-1409-4725-A7EC-99A188618DE0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
