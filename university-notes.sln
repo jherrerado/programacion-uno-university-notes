@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "control-torre", "controlTor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "genograma", "genograma\genograma.vcxproj", "{018C69FB-1409-4725-A7EC-99A188618DE0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hard-soft", "hard-soft\hard-soft.vcxproj", "{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{018C69FB-1409-4725-A7EC-99A188618DE0}.Release|x64.Build.0 = Release|x64
 		{018C69FB-1409-4725-A7EC-99A188618DE0}.Release|x86.ActiveCfg = Release|Win32
 		{018C69FB-1409-4725-A7EC-99A188618DE0}.Release|x86.Build.0 = Release|Win32
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Debug|x64.ActiveCfg = Debug|x64
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Debug|x64.Build.0 = Debug|x64
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Debug|x86.ActiveCfg = Debug|Win32
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Debug|x86.Build.0 = Debug|Win32
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Release|x64.ActiveCfg = Release|x64
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Release|x64.Build.0 = Release|x64
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Release|x86.ActiveCfg = Release|Win32
+		{74BECAF5-FEDD-4FC3-AEFC-1D3DC5B19522}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
